@@ -26,7 +26,7 @@ Se recomienda crear un fork al repositorio y trabajar en su propia rama.
 
     7. Matching
 
--   Los datos y notebook son descargables en el siguiente [repositorio de proyecto](https://github.com/ClasesMOW/ayudantia2ccs)  así que se recomienda correr todo en tu propio computador o en una instancia en la nube.
+-   Los datos y notebook son descargables en el siguiente [repositorio de proyecto tutorial](https://github.com/ClasesMOW/ayudantia2_tutorial)  así que se recomienda correr todo en tu propio computador o en una instancia en la nube.
 
 -   Este tutorial es una adaptación del trabajo de [Hans H. Sievertsen](https://hhsievertsen.shinyapps.io/applied_econ_with_R_dynamic), agregando la estimación con métodos de de métodos de matching y algunos cambios a la situación a analizar.
 
